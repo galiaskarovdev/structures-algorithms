@@ -1,0 +1,12 @@
+{
+  "name": "structures-algorithms",
+  "version": "1.0.0",
+  "description": "Структуры данных и алгоритмы",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Структуры данных", "Алгоритмы"],
+  "author": "Галиаскаров Артём Альбертович",
+  "license": "MIT"
+}
